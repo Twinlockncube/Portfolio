@@ -1,7 +1,7 @@
 import React from 'react';
-import project1 from '../images/dark_room.jpg';
-import project2 from '../images/coder.jpg';
-import project3 from '../images/laravel.jpg';
+import project1 from '../images/dark_room-min.jpg';
+import project2 from '../images/coder-min.jpg';
+import project3 from '../images/laravel-min.jpg';
 import Card from './Card';
 import CardRow from './CardRow';
 

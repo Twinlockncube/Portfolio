@@ -1,6 +1,6 @@
 import { camelCase } from 'lodash';
 import React from 'react';
-import banner from '../images/hacker.jpg';
+import banner from '../images/hacker-min.jpg';
 
 function Banner(props) {
     const the_style ={ 
